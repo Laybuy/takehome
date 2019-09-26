@@ -11,12 +11,12 @@ At Laybuy we love languages like ruby, nodejs/ES6/TypeScript, but please feel fr
 This is a sample of the `getMerchants` GraphQL query.
 ```
 {
- 	getMerchants{
-    merchantid
-    name
-    phone
-    imageurl300
-  } 
+    getMerchants{
+        merchantid
+        name
+        phone
+        imageurl300
+    } 
 }
 ```
 
