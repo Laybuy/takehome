@@ -27,7 +27,7 @@ Good Luck, and have fun implementing!
 
 ## Frontend React Excercise (Bonus)
 
-Now if you wanted to flex your frontend skills, be our guest :) We'd love to see your React chops, by consuming the GraphQL query you've built above in a grid which showcases our merchants.
+Now if you wanted to flex your frontend skills, be our guest :) We'd love to see your React chops, by consuming the GraphQL query you've built above, build out React components which showcases our merchants in a grid format.
 
 Use libraries, frameworks, and tooling to make your life easier, the most important thing here is the end result. 
 
