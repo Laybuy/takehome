@@ -14,14 +14,14 @@ This is a sample of the `getMerchants` GraphQL query.
     getMerchants{
         merchantid
         name
-        phone
+        url
         imageurl300
     } 
 }
 ```
 
 ### API END POINT
-*POST* `https://dashboard.laybuy.com/api/general/shophere?country_id=3`
+*POST* `https://dashboard.laybuy.com/api/general/shophere?countryid=3`
 
 Good Luck, and have fun implementing!
 
