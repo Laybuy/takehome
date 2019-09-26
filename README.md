@@ -1,7 +1,7 @@
 # takehome
 The Laybuy Takehome test for Devs
 
-## GraphQL Excercise
+## Backend GraphQL Excercise
 Implement a simple GrapQL server which implements a single `getMerchants` query.
 
 This query should resolve to our current shop directory API end point which coincidentally returns a collection of merhchants. Ideally most of the attributes should be mapped to the GrapqQL schema.
@@ -21,8 +21,16 @@ This is a sample of the `getMerchants` GraphQL query.
 ```
 
 ### API END POINT
-*POST* `https://dashboard.laybuy.com/api/general/shophere?countryid=3`
+**POST** `https://dashboard.laybuy.com/api/general/shophere?countryid=3`
 
 Good Luck, and have fun implementing!
+
+## Frontend React Excercise (Bonus)
+
+Now if you wanted to flex your frontend skills, be our guest :) We'd love to see your React chops, by consuming the GraphQL query you've built above in a grid which showcases our merchants.
+
+Use libraries, frameworks, and tooling to make your life easier, the most important thing here is the end result. 
+
+Can't wait to see what you've built!
 
 
