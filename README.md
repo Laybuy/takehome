@@ -2,7 +2,7 @@
 The Laybuy Takehome test for Devs
 
 ## Backend GraphQL Excercise
-Implement a simple GrapQL server which implements a single `getMerchants` query.
+Implement a simple GraphQL server which implements a single `getMerchants` query.
 
 This query should resolve to our current shop directory API end point which coincidentally returns a collection of merhchants. Ideally most of the attributes should be mapped to the GrapqQL schema.
 
