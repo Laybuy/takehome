@@ -21,7 +21,7 @@ This is a sample of the `getMerchants` GraphQL query.
 ```
 
 ### API END POINT
-**POST** `https://shop-directory-heroku.laybuy.com/api//tiles?page%5Bsize%5D=8&page%5Bnumber%5D=1&include=activePromotion&filter%5Border%5D=Offers%20%26%20Deals&filter%5Bcategory_id%5D=1`
+**GET** `https://shop-directory-heroku.laybuy.com/api//tiles?page%5Bsize%5D=8&page%5Bnumber%5D=1&include=activePromotion&filter%5Border%5D=Offers%20%26%20Deals&filter%5Bcategory_id%5D=1`
 
 Good Luck, and have fun implementing!
 
