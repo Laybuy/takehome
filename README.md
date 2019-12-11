@@ -6,7 +6,7 @@ Implement a simple GraphQL server which implements a single `getTiles` query.
 
 This query should resolve to our current shop directory API end point which returns a collection of merhchant tiles. Ideally most of the key attributes should be mapped to the GrapqQL schema.
 
-At Laybuy we love languages like ruby, nodejs/ES6/TypeScript, but please feel free to implement this in whatever language or framework you feel comfortable with.
+At Laybuy we love languages like ruby, nodejs/ES6/TypeScript/Go, but please feel free to implement this in whatever language or framework you feel comfortable with.
 
 This is a sample of the `getTiles` GraphQL query.
 ```
